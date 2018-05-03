@@ -1,5 +1,5 @@
-// Telescope controller
-// by isseikz
+// Telescope controller by isseikz(https://github.com/isseikz)
+// Project: https://github.com/isseikz/TelescopeController
 
 #define BLK 12
 #define GRN 14
